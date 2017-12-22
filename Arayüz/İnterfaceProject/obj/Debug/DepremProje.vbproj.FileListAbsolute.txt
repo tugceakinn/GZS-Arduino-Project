@@ -1,0 +1,12 @@
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\bin\Debug\DepremProje.exe.config
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\bin\Debug\dpp.accdb
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\bin\Debug\DepremProje.exe
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\bin\Debug\DepremProje.pdb
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\bin\Debug\DepremProje.xml
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\obj\Debug\DepremProje.Form2.resources
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\obj\Debug\DepremProje.Resources.resources
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\obj\Debug\DepremProje.vbproj.GenerateResource.Cache
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\obj\Debug\DepremProje.exe
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\obj\Debug\DepremProje.xml
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\obj\Debug\DepremProje.pdb
+C:\Users\HASAN\Documents\Visual Studio 2012\Projects\DepremProje\DepremProje\obj\Debug\DepremProje.Form1.resources
